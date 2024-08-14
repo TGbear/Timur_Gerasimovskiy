@@ -1,0 +1,84 @@
+h1 {
+			color: #d5e1df;
+			font-family: times new roman;
+			font-size: 35px;
+			text-align: center;
+		}
+b {
+	font-size: 35px;
+
+}
+i {
+	font-size: 20px;
+}
+.video-phone {
+	width:"720";
+	height:"480"
+}
+img {
+	width: 300px;
+	height: 250px;
+	align-content: center;
+}
+
+		body { 
+       padding: 0px 10% 0px 10%;
+      background-color: #66CDAA;
+      font-size: 20px;
+      font-family: times new roman;
+      
+    }
+h2 {
+	text-align: center;
+	font-family: monospace;
+	font-size: 30px;
+	color: brown;
+}
+.sobachka-knopka {
+	background-color: green;
+margin: 0 auto;
+display: block;
+border: none;
+border-radius: 10px;
+}
+.sobachka-knopka:hover {
+    background-color: #45a049}
+
+.pesik-knopka{
+	background-color: yellow;
+	color: red;
+}
+.zagolovok{
+	color: darkseagreen;
+	font-size: 40px;
+	font-family: fantasy;
+	text-decoration: none;
+}
+.sobachka-navigator{
+	color: brown;
+	font-size: 30px;
+	font-family: monospace;
+	text-decoration: none
+}
+u {
+	font-size: 25px;
+	color: brown;
+	background-color: yellow;
+}
+.ficus-img{
+	margin: 0 auto;
+	display: block;
+}
+.Pillarmens {
+  margin-top: 20px;
+  background: yellowgreen;
+  padding: 10px;
+  -webkit-columns: auto; 
+  -moz-columns: auto; 
+  columns: auto; 
+h3{
+	color: palevioletred;
+	font-size: 25px;
+	font-family: cursive;
+	font-family: monospace;
+}
